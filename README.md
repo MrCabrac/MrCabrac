@@ -10,9 +10,14 @@ Soy Brayan Martinez, estudiante de Ingeniería Mecatrónica en la Universidad EI
 #### Visitas
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MrCabrac)
+<details>
+<summary>Más sobre mi</summary>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrCabrac&hide=prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Estadísticas de Código
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
+
+</details>
