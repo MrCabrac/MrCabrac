@@ -18,9 +18,9 @@ Soy Brayan Martinez, estudiante de Ingeniería Mecatrónica en la Universidad EI
 #### Estadísticas de Código
 <!--START_SECTION:waka-->
 ```text
-TypeScript   24 mins         ███████████▓░░░░░░░░░░░░░   46.15 % 
-JSON         16 mins         ████████░░░░░░░░░░░░░░░░░   31.50 % 
-Python       11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.51 % 
+TypeScript   29 mins         ████████████░░░░░░░░░░░░░   47.99 % 
+JSON         16 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.26 % 
+Python       14 mins         ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
 ```
 <!--END_SECTION:waka-->
 
