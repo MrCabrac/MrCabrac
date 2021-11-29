@@ -18,11 +18,11 @@ Soy Brayan Martinez, estudiante de Ingeniería Mecatrónica en la Universidad EI
 #### Estadísticas de Código
 <!--START_SECTION:waka-->
 ```text
-TypeScript   7 hrs 26 mins   ███████▓░░░░░░░░░░░░░░░░░   30.80 % 
-HTML         7 hrs 23 mins   ███████▓░░░░░░░░░░░░░░░░░   30.54 % 
-C++          3 hrs 23 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-SCSS         2 hrs 37 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Python       1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+TypeScript   7 hrs 26 mins   ████████░░░░░░░░░░░░░░░░░   32.36 % 
+HTML         7 hrs 23 mins   ████████░░░░░░░░░░░░░░░░░   32.09 % 
+C++          3 hrs 23 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+SCSS         2 hrs 37 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+C            36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 ```
 <!--END_SECTION:waka-->
 
