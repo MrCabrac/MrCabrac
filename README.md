@@ -19,12 +19,12 @@ Soy Brayan Martinez, estudiante de Ingeniería Mecatrónica en la Universidad EI
 <!--START_SECTION:waka-->
 
 ```text
-C             6 hrs 6 mins    ████████░░░░░░░░░░░░░░░░░   31.35 %
-Objective-C   5 hrs 26 mins   ███████░░░░░░░░░░░░░░░░░░   27.92 %
-TypeScript    3 hrs 25 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.54 %
-JavaScript    2 hrs 29 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
-Arduino       1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-C++           37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+C             6 hrs 5 mins    ████████░░░░░░░░░░░░░░░░░   32.34 %
+Objective-C   5 hrs 4 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.92 %
+TypeScript    3 hrs 29 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.48 %
+JavaScript    2 hrs 29 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
+Arduino       1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+C++           18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 ```
 
 <!--END_SECTION:waka-->
